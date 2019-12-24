@@ -1,5 +1,5 @@
 # specification13
-This repository contains a revised ICANN Specification13 list of gTLDs where only the Registry operator, its affiliates or trademark licensees are registrants of domain names in the TLD.
+This repository contains a revised [ICANN Specification13](https://newgtlds.icann.org/en/applicants/agb/base-agreement-contracting/specification-13-applications) list of gTLDs where only the Registry operator, its affiliates or trademark licensees are registrants of domain names in the TLD.
 
 ## Structure
 
