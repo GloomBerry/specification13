@@ -1,0 +1,4681 @@
+{
+    "gTLDs": [
+        {
+            "Generic top-level domain": "able",
+            "Registry operator": "Able Inc.",
+            "Organization": "Able Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "abogado",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "abudhabi",
+            "Registry operator": "Abu Dhabi Systems and Information Centre",
+            "Organization": "Abu Dhabi Systems and Information Centre",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "academy",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "accountant",
+            "Registry operator": "dot Accountant Limited",
+            "Organization": "dot Accountant Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "accountants",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "actor",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ads",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "adult",
+            "Registry operator": "ICM Registry AD LLC",
+            "Organization": "ICM Registry AD LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "aero",
+            "Registry operator": "SITA",
+            "Organization": "SITA",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "africa",
+            "Registry operator": "ZA Central Registry NPC trading as Registry.Africa",
+            "Organization": "ZA Central Registry NPC trading as Registry.Africa",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "agakhan",
+            "Registry operator": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Organization": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "agency",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "airforce",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "akdn",
+            "Registry operator": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Organization": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "allfinanz",
+            "Registry operator": "Allfinanz Deutsche Verm\u00f6gensberatung Aktiengesellschaft",
+            "Organization": "Allfinanz Deutsche Verm\u00f6gensberatung Aktiengesellschaft",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "alsace",
+            "Registry operator": "Region Grand Est",
+            "Organization": "Region Grand Est",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "amsterdam",
+            "Registry operator": "Gemeente Amsterdam",
+            "Organization": "Gemeente Amsterdam",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "analytics",
+            "Registry operator": "Campus IP LLC",
+            "Organization": "Campus IP LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "anquan",
+            "Registry operator": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Organization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "apartments",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "app",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "arab",
+            "Registry operator": "League of Arab States",
+            "Organization": "League of Arab States",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "aramco",
+            "Registry operator": "Aramco Services Company",
+            "Organization": "Aramco Services Company",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "archi",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "army",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "art",
+            "Registry operator": "UK Creative Ideas Limited",
+            "Organization": "UK Creative Ideas Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "asia",
+            "Registry operator": "DotAsia Organisation Limited",
+            "Organization": "DotAsia Organisation Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "associates",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "attorney",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "auction",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "audio",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "author",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "auto",
+            "Registry operator": "Cars\u00a0Registry Limited\u00a0",
+            "Organization": "Cars\u00a0Registry Limited\u00a0",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "autos",
+            "Registry operator": "DERAutos, LLC",
+            "Organization": "DERAutos, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "avianca",
+            "Registry operator": "Avianca Holdings S.A.",
+            "Organization": "Avianca Holdings S.A.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "baby",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "baidu",
+            "Registry operator": "Baidu, Inc.",
+            "Organization": "Baidu, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "band",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bank",
+            "Registry operator": "fTLD Registry Services LLC",
+            "Organization": "fTLD Registry Services LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bar",
+            "Registry operator": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
+            "Organization": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "barcelona",
+            "Registry operator": "Municipi de Barcelona",
+            "Organization": "Municipi de Barcelona",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bargains",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "baseball",
+            "Registry operator": "MLB Advanced Media DH, LLC",
+            "Organization": "MLB Advanced Media DH, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "basketball",
+            "Registry operator": "F\u00e9d\u00e9ration Internationale de Basketball (FIBA)",
+            "Organization": "F\u00e9d\u00e9ration Internationale de Basketball (FIBA)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bayern",
+            "Registry operator": "Bayern Connect GmbH",
+            "Organization": "Bayern Connect GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bcn",
+            "Registry operator": "Municipi de Barcelona",
+            "Organization": "Municipi de Barcelona",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "beauty",
+            "Registry operator": "L'Or\u00e9al",
+            "Organization": "L'Or\u00e9al",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "beer",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "berlin",
+            "Registry operator": "dotBERLIN GmbH & Co. KG",
+            "Organization": "dotBERLIN GmbH & Co. KG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "best",
+            "Registry operator": "BestTLD Pty Ltd",
+            "Organization": "BestTLD Pty Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bet",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bible",
+            "Registry operator": "American Bible Society",
+            "Organization": "American Bible Society",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bid",
+            "Registry operator": "dot Bid Limited",
+            "Organization": "dot Bid Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bike",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bingo",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bio",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "biz",
+            "Registry operator": "Registry Services, LLC",
+            "Organization": "Registry Services, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "black",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "blackfriday",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "blog",
+            "Registry operator": "Knock Knock WHOIS There, LLC",
+            "Organization": "Knock Knock WHOIS There, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "blue",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "boats",
+            "Registry operator": "DERBoats, LLC",
+            "Organization": "DERBoats, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bom",
+            "Registry operator": "N\u00facleo de Informa\u00e7\u00e3o e Coordena\u00e7\u00e3o do Ponto BR - NIC.br",
+            "Organization": "N\u00facleo de Informa\u00e7\u00e3o e Coordena\u00e7\u00e3o do Ponto BR - NIC.br",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bond",
+            "Registry operator": "ShortDot SA",
+            "Organization": "ShortDot SA",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "boo",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "book",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "booking",
+            "Registry operator": "Booking.com B.V.",
+            "Organization": "Booking.com B.V.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "boston",
+            "Registry operator": "Boston TLD Management, LLC",
+            "Organization": "Boston TLD Management, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bot",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "boutique",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "box",
+            "Registry operator": ".BOX INC.",
+            "Organization": ".BOX INC.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "broadway",
+            "Registry operator": "Celebrate Broadway, Inc.",
+            "Organization": "Celebrate Broadway, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "broker",
+            "Registry operator": "Dotbroker Registry Limited",
+            "Organization": "Dotbroker Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "brussels",
+            "Registry operator": "DNS.be vzw",
+            "Organization": "DNS.be vzw",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "budapest",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "build",
+            "Registry operator": "Plan Bee LLC",
+            "Organization": "Plan Bee LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "builders",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "business",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "buy",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "buzz",
+            "Registry operator": "DOTSTRATEGY CO.",
+            "Organization": "DOTSTRATEGY CO.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "bzh",
+            "Registry operator": "Association www.bzh",
+            "Organization": "Association www.bzh",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cab",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cafe",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cal",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "call",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cam",
+            "Registry operator": "AC Webconnecting Holding B.V.",
+            "Organization": "AC Webconnecting Holding B.V.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "camera",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "camp",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cancerresearch",
+            "Registry operator": "Australian Cancer Research Foundation",
+            "Organization": "Australian Cancer Research Foundation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "capetown",
+            "Registry operator": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Organization": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "capital",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "car",
+            "Registry operator": "Cars\u00a0Registry Limited\u00a0",
+            "Organization": "Cars\u00a0Registry Limited\u00a0",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cards",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "care",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "career",
+            "Registry operator": "dotCareer LLC",
+            "Organization": "dotCareer LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "careers",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cars",
+            "Registry operator": "Cars\u00a0Registry Limited\u00a0",
+            "Organization": "Cars\u00a0Registry Limited\u00a0",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cartier",
+            "Registry operator": "Richemont DNS Inc.",
+            "Organization": "Richemont DNS Inc.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "casa",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cash",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "casino",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cat",
+            "Registry operator": "Fundaci\u00f3 puntCAT",
+            "Organization": "Fundaci\u00f3 puntCAT",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "catering",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "catholic",
+            "Registry operator": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Organization": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "center",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ceo",
+            "Registry operator": "CEOTLD Pty Ltd",
+            "Organization": "CEOTLD Pty Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cfd",
+            "Registry operator": "DotCFD Registry Limited",
+            "Organization": "DotCFD Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "channel",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "charity",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "chat",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cheap",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "christmas",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "chrysler",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "church",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "circle",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "city",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cityeats",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "claims",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cleaning",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "click",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "clinic",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "clothing",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cloud",
+            "Registry operator": "Aruba PEC S.p.A.",
+            "Organization": "Aruba PEC S.p.A.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "club",
+            "Registry operator": ".CLUB DOMAINS, LLC",
+            "Organization": ".CLUB DOMAINS, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "coach",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "codes",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "coffee",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "college",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cologne",
+            "Registry operator": "dotKoeln GmbH",
+            "Organization": "dotKoeln GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "com",
+            "Registry operator": "VeriSign, Inc.",
+            "Organization": "VeriSign, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "community",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "company",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "compare",
+            "Registry operator": "Registry Services, LLC",
+            "Organization": "Registry Services, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "computer",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "comsec",
+            "Registry operator": "VeriSign, Inc.",
+            "Organization": "VeriSign, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "condos",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "construction",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "consulting",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "contact",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "contractors",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cooking",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cool",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "coop",
+            "Registry operator": "DotCooperation LLC",
+            "Organization": "DotCooperation LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "corsica",
+            "Registry operator": "Collectivit\u00e9 de Corse",
+            "Organization": "Collectivit\u00e9 de Corse",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "country",
+            "Registry operator": "DotCountry LLC",
+            "Organization": "DotCountry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "coupon",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "coupons",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "courses",
+            "Registry operator": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+            "Organization": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cpa",
+            "Registry operator": "American Institute of Certified Public Accountants",
+            "Organization": "American Institute of Certified Public Accountants",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "credit",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "creditcard",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "creditunion",
+            "Registry operator": "CUNA Performance Resources, LLC",
+            "Organization": "CUNA Performance Resources, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cricket",
+            "Registry operator": "dot Cricket Limited",
+            "Organization": "dot Cricket Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "crs",
+            "Registry operator": "Federated Co-operatives Limited",
+            "Organization": "Federated Co-operatives Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cruise",
+            "Registry operator": "Viking River Cruises (Bermuda) Ltd.",
+            "Organization": "Viking River Cruises (Bermuda) Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cruises",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cymru",
+            "Registry operator": "Nominet UK",
+            "Organization": "Nominet UK",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "cyou",
+            "Registry operator": "Beijing Gamease Age Digital Technology Co., Ltd.",
+            "Organization": "Beijing Gamease Age Digital Technology Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dad",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dance",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "data",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "date",
+            "Registry operator": "dot Date Limited",
+            "Organization": "dot Date Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dating",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "day",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dclk",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dds",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "deal",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dealer",
+            "Registry operator": "Intercap Registry Inc.",
+            "Organization": "Intercap Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "deals",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "degree",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "delivery",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "democrat",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dental",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dentist",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "desi",
+            "Registry operator": "Desi Networks LLC",
+            "Organization": "Desi Networks LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "design",
+            "Registry operator": "Top Level Design, LLC",
+            "Organization": "Top Level Design, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dev",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "diamonds",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "diet",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "digital",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "direct",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "directory",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "discount",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "docs",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "doctor",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dodge",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "dog",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "domains",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dot",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "download",
+            "Registry operator": "dot Support Limited",
+            "Organization": "dot Support Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "drive",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dtv",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dubai",
+            "Registry operator": "Dubai Smart Government Department",
+            "Organization": "Dubai Smart Government Department",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "durban",
+            "Registry operator": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Organization": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "dvr",
+            "Registry operator": "DISH Technologies L.L.C.",
+            "Organization": "DISH Technologies L.L.C.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "earth",
+            "Registry operator": "Interlink Co., Ltd.",
+            "Organization": "Interlink Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "eat",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "eco",
+            "Registry operator": "Big Room Inc.",
+            "Organization": "Big Room Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "education",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "email",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "energy",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "engineer",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "engineering",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "enterprises",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "equipment",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "erni",
+            "Registry operator": "ERNI Group Holding AG",
+            "Organization": "ERNI Group Holding AG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "esq",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "estate",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "eus",
+            "Registry operator": "Puntueus Fundazioa",
+            "Organization": "Puntueus Fundazioa",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "events",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "exchange",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "expert",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "exposed",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "express",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fail",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "faith",
+            "Registry operator": "dot Faith Limited",
+            "Organization": "dot Faith Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "family",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fan",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fans",
+            "Registry operator": "ZDNS International Limited",
+            "Organization": "ZDNS International Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "farm",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fashion",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fast",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "feedback",
+            "Registry operator": "Top Level Spectrum, Inc.",
+            "Organization": "Top Level Spectrum, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "film",
+            "Registry operator": "Motion Picture Domain Registry Pty Ltd",
+            "Organization": "Motion Picture Domain Registry Pty Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "final",
+            "Registry operator": "N\u00facleo de Informa\u00e7\u00e3o e Coordena\u00e7\u00e3o do Ponto BR - NIC.br",
+            "Organization": "N\u00facleo de Informa\u00e7\u00e3o e Coordena\u00e7\u00e3o do Ponto BR - NIC.br",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "finance",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "financial",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "firmdale",
+            "Registry operator": "Firmdale Holdings Limited",
+            "Organization": "Firmdale Holdings Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fish",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fishing",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fit",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fitness",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "flights",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "florist",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "flowers",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fly",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "foo",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "football",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "forex",
+            "Registry operator": "Dotforex Registry Limited",
+            "Organization": "Dotforex Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "forsale",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "forum",
+            "Registry operator": "Fegistry, LLC",
+            "Organization": "Fegistry, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "foundation",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "free",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "frl",
+            "Registry operator": "FRLregistry B.V.",
+            "Organization": "FRLregistry B.V.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ftr",
+            "Registry operator": "Frontier Communications Corporation",
+            "Organization": "Frontier Communications Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fun",
+            "Registry operator": "DotSpace Inc.",
+            "Organization": "DotSpace Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fund",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "furniture",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "futbol",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "fyi",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gal",
+            "Registry operator": "Asociaci\u00f3n puntoGAL",
+            "Organization": "Asociaci\u00f3n puntoGAL",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gallery",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "game",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "games",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "garden",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gay",
+            "Registry operator": "Top Level Design, LLC",
+            "Organization": "Top Level Design, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gbiz",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gdn",
+            "Registry operator": "Joint Stock Company \"Navigation-information systems\"",
+            "Organization": "Joint Stock Company \"Navigation-information systems\"",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gent",
+            "Registry operator": "COMBELL NV",
+            "Organization": "COMBELL NV",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ggee",
+            "Registry operator": "GMO Internet, Inc.",
+            "Organization": "GMO Internet, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gift",
+            "Registry operator": "DotGift, LLC",
+            "Organization": "DotGift, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gifts",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gives",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "giving",
+            "Registry operator": "Giving Limited",
+            "Organization": "Giving Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "glass",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gle",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "global",
+            "Registry operator": "Dot Global Domain Registry Limited",
+            "Organization": "Dot Global Domain Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "globo",
+            "Registry operator": "Globo Comunica\u00e7\u00e3o e Participa\u00e7\u00f5es S.A",
+            "Organization": "Globo Comunica\u00e7\u00e3o e Participa\u00e7\u00f5es S.A",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gmbh",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gold",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "golf",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "goog",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gop",
+            "Registry operator": "Republican State Leadership Committee, Inc.",
+            "Organization": "Republican State Leadership Committee, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "got",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "graphics",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gratis",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "green",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "gripe",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "grocery",
+            "Registry operator": "Wal-Mart Stores, Inc.",
+            "Organization": "Wal-Mart Stores, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "group",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "guge",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "guide",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "guitars",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "guru",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hair",
+            "Registry operator": "L'Or\u00e9al",
+            "Organization": "L'Or\u00e9al",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hamburg",
+            "Registry operator": "Hamburg Top-Level-Domain GmbH",
+            "Organization": "Hamburg Top-Level-Domain GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hangout",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "haus",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "health",
+            "Registry operator": "DotHealth, LLC",
+            "Organization": "DotHealth, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "healthcare",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "help",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "helsinki",
+            "Registry operator": "City of Helsinki",
+            "Organization": "City of Helsinki",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "here",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hiphop",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hiv",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hockey",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "holdings",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "holiday",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "homes",
+            "Registry operator": "DERHomes, LLC",
+            "Organization": "DERHomes, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "horse",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hospital",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "host",
+            "Registry operator": "DotHost Inc.",
+            "Organization": "DotHost Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hosting",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hot",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hoteles",
+            "Registry operator": "Travel Reservations SRL",
+            "Organization": "Travel Reservations SRL",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "hotels",
+            "Registry operator": "Booking.com B.V.",
+            "Organization": "Booking.com B.V.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "house",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "how",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "icu",
+            "Registry operator": "ShortDot SA",
+            "Organization": "ShortDot SA",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "imamat",
+            "Registry operator": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Organization": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "immo",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "immobilien",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "inc",
+            "Registry operator": "Intercap Registry Inc.",
+            "Organization": "Intercap Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "industries",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "info",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ing",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ink",
+            "Registry operator": "Top Level Design, LLC",
+            "Organization": "Top Level Design, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "institute",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "insurance",
+            "Registry operator": "fTLD Registry Services LLC",
+            "Organization": "fTLD Registry Services LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "insure",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "international",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "investments",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "irish",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ismaili",
+            "Registry operator": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Organization": "Fondation Aga Khan (Aga Khan Foundation)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ist",
+            "Registry operator": "Istanbul Metropolitan Municipality",
+            "Organization": "Istanbul Metropolitan Municipality",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "istanbul",
+            "Registry operator": "Istanbul Metropolitan Municipality",
+            "Organization": "Istanbul Metropolitan Municipality",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "jetzt",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "jewelry",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "jobs",
+            "Registry operator": "Employ Media LLC",
+            "Organization": "Employ Media LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "joburg",
+            "Registry operator": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Organization": "ZA Central Registry NPC trading as ZA Central Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "jot",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "joy",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "jprs",
+            "Registry operator": "Japan Registry Services Co., Ltd.",
+            "Organization": "Japan Registry Services Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "juegos",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kaufen",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kerryhotels",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kerrylogistics",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kerryproperties",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kfh",
+            "Registry operator": "Kuwait Finance House",
+            "Organization": "Kuwait Finance House",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kim",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kitchen",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kiwi",
+            "Registry operator": "DOT KIWI LIMITED",
+            "Organization": "DOT KIWI LIMITED",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "koeln",
+            "Registry operator": "dotKoeln GmbH",
+            "Organization": "dotKoeln GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kosher",
+            "Registry operator": "Kosher Marketing Assets LLC",
+            "Organization": "Kosher Marketing Assets LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "krd",
+            "Registry operator": "KRG Department of Information Technology",
+            "Organization": "KRG Department of Information Technology",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kred",
+            "Registry operator": "KredTLD Pty Ltd",
+            "Organization": "KredTLD Pty Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kuokgroup",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "kyoto",
+            "Registry operator": "Academic Institution: Kyoto Jyoho Gakuen",
+            "Organization": "Academic Institution: Kyoto Jyoho Gakuen",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lacaixa",
+            "Registry operator": "Fundaci\u00f3n Bancaria Caixa d\u2019Estalvis i Pensions de Barcelona, \u201cla Caixa\u201d",
+            "Organization": "Fundaci\u00f3n Bancaria Caixa d\u2019Estalvis i Pensions de Barcelona, \u201cla Caixa\u201d",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ladbrokes",
+            "Registry operator": "LADBROKES INTERNATIONAL PLC",
+            "Organization": "LADBROKES INTERNATIONAL PLC",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "lancome",
+            "Registry operator": "L'Or\u00e9al",
+            "Organization": "L'Or\u00e9al",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "land",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lasalle",
+            "Registry operator": "Jones Lang LaSalle Incorporated",
+            "Organization": "Jones Lang LaSalle Incorporated",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lat",
+            "Registry operator": "ECOM-LAC Federaci\u00f2n de Latinoam\u00e8rica y el Caribe para Internet y el Comercio Electr\u00f2nico",
+            "Organization": "ECOM-LAC Federaci\u00f2n de Latinoam\u00e8rica y el Caribe para Internet y el Comercio Electr\u00f2nico",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "latino",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "law",
+            "Registry operator": "LW TLD Limited",
+            "Organization": "LW TLD Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lawyer",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lease",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "legal",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lgbt",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "life",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lifeinsurance",
+            "Registry operator": "American Council of Life Insurers",
+            "Organization": "American Council of Life Insurers",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lifestyle",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lighting",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "like",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "limited",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "limo",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "link",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "live",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "living",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "llc",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "llp",
+            "Registry operator": "Dot Registry LLC",
+            "Organization": "Dot Registry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "loan",
+            "Registry operator": "dot Loan Limited",
+            "Organization": "dot Loan Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "loans",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "locker",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lol",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "london",
+            "Registry operator": "Dot London Domains Limited",
+            "Organization": "Dot London Domains Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "lotto",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "love",
+            "Registry operator": "Merchant Law Group LLP",
+            "Organization": "Merchant Law Group LLP",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ltd",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ltda",
+            "Registry operator": "InterNetX, Corp",
+            "Organization": "InterNetX, Corp",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "luxe",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "luxury",
+            "Registry operator": "Luxury Partners, LLC",
+            "Organization": "Luxury Partners, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "madrid",
+            "Registry operator": "Comunidad de Madrid",
+            "Organization": "Comunidad de Madrid",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "maison",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "makeup",
+            "Registry operator": "L'Or\u00e9al",
+            "Organization": "L'Or\u00e9al",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "management",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mango",
+            "Registry operator": "PUNTO FA S.L.",
+            "Organization": "PUNTO FA S.L.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "map",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "market",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "marketing",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "markets",
+            "Registry operator": "Dotmarkets Registry Limited",
+            "Organization": "Dotmarkets Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mba",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "med",
+            "Registry operator": "Medistry LLC",
+            "Organization": "Medistry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "media",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "meet",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "melbourne",
+            "Registry operator": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation",
+            "Organization": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "meme",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "memorial",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "men",
+            "Registry operator": "Exclusive Registry Limited",
+            "Organization": "Exclusive Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "menu",
+            "Registry operator": "Dot Menu Registry, LLC",
+            "Organization": "Dot Menu Registry, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "merckmsd",
+            "Registry operator": "MSD Registry Holdings, Inc.",
+            "Organization": "MSD Registry Holdings, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "miami",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mls",
+            "Registry operator": "The Canadian Real Estate Association",
+            "Organization": "The Canadian Real Estate Association",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mma",
+            "Registry operator": "MMA IARD",
+            "Organization": "MMA IARD",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mobi",
+            "Registry operator": "Afilias Technologies Limited",
+            "Organization": "Afilias Technologies Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mobile",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "moda",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "moe",
+            "Registry operator": "Interlink Co., Ltd.",
+            "Organization": "Interlink Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "moi",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mom",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "money",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mopar",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "mortgage",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "moscow",
+            "Registry operator": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+            "Organization": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "motorcycles",
+            "Registry operator": "DERMotorcycles, LLC",
+            "Organization": "DERMotorcycles, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mov",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "movie",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "movistar",
+            "Registry operator": "Telef\u00f3nica S.A.",
+            "Organization": "Telef\u00f3nica S.A.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "museum",
+            "Registry operator": "Museum Domain Management Association International (MDI)",
+            "Organization": "Museum Domain Management Association International (MDI)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "mutual",
+            "Registry operator": "Northwestern Mutual MU TLD Registry, LLC",
+            "Organization": "Northwestern Mutual MU TLD Registry, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "nagoya",
+            "Registry operator": "GMO Registry, Inc.",
+            "Organization": "GMO Registry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "name",
+            "Registry operator": "VeriSign, Inc.",
+            "Organization": "VeriSign, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "navy",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "net",
+            "Registry operator": "VeriSign, Inc.",
+            "Organization": "VeriSign, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "network",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "new",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "news",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ngo",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ninja",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "now",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "nowruz",
+            "Registry operator": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Organization": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "nrw",
+            "Registry operator": "Minds + Machines GmbH",
+            "Organization": "Minds + Machines GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "nyc",
+            "Registry operator": "The City of New York by and through the New York City Department of Information Technology & Telecommunications",
+            "Organization": "The City of New York by and through the New York City Department of Information Technology & Telecommunications",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "observer",
+            "Registry operator": "Top Level Spectrum, Inc.",
+            "Organization": "Top Level Spectrum, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "office",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "okinawa",
+            "Registry operator": "BRregistry, Inc.",
+            "Organization": "BRregistry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "olayan",
+            "Registry operator": "Crescent Holding GmbH",
+            "Organization": "Crescent Holding GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "olayangroup",
+            "Registry operator": "Crescent Holding GmbH",
+            "Organization": "Crescent Holding GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ollo",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "one",
+            "Registry operator": "One.com A/S",
+            "Organization": "One.com A/S",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ong",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "onl",
+            "Registry operator": "I-Registry Ltd.",
+            "Organization": "I-Registry Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "online",
+            "Registry operator": "DotOnline Inc.",
+            "Organization": "DotOnline Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ooo",
+            "Registry operator": "INFIBEAM AVENUES LIMITED",
+            "Organization": "INFIBEAM AVENUES LIMITED",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "org",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "organic",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "osaka",
+            "Registry operator": "Osaka Registry Co., Ltd.",
+            "Organization": "Osaka Registry Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ott",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ovh",
+            "Registry operator": "M\u00e9diaBC",
+            "Organization": "M\u00e9diaBC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "page",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "paris",
+            "Registry operator": "City of Paris",
+            "Organization": "City of Paris",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pars",
+            "Registry operator": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Organization": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "partners",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "parts",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "party",
+            "Registry operator": "Blue Sky Registry Limited",
+            "Organization": "Blue Sky Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "passagens",
+            "Registry operator": "Travel Reservations SRL",
+            "Organization": "Travel Reservations SRL",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pay",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pet",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pharmacy",
+            "Registry operator": "National Association of Boards of Pharmacy",
+            "Organization": "National Association of Boards of Pharmacy",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "phd",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "phone",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "photo",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "photography",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "photos",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "physio",
+            "Registry operator": "PhysBiz Pty Ltd",
+            "Organization": "PhysBiz Pty Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "piaget",
+            "Registry operator": "Richemont DNS Inc.",
+            "Organization": "Richemont DNS Inc.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "pics",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pictures",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pid",
+            "Registry operator": "Top Level Spectrum, Inc.",
+            "Organization": "Top Level Spectrum, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pin",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pink",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pizza",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "place",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "play",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "plumbing",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "plus",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pohl",
+            "Registry operator": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Organization": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "poker",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "politie",
+            "Registry operator": "Politie Nederland",
+            "Organization": "Politie Nederland",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "porn",
+            "Registry operator": "ICM Registry PN LLC",
+            "Organization": "ICM Registry PN LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "post",
+            "Registry operator": "Universal Postal Union",
+            "Organization": "Universal Postal Union",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "press",
+            "Registry operator": "DotPress Inc.",
+            "Organization": "DotPress Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pro",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "prod",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "productions",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "prof",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "promo",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "properties",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "property",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "protection",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "pub",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "qpon",
+            "Registry operator": "dotCOOL, Inc.",
+            "Organization": "dotCOOL, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "quebec",
+            "Registry operator": "PointQu\u00e9bec Inc",
+            "Organization": "PointQu\u00e9bec Inc",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "quest",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "racing",
+            "Registry operator": "Premier Registry Limited",
+            "Organization": "Premier Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "radio",
+            "Registry operator": "European Broadcasting Union (EBU)",
+            "Organization": "European Broadcasting Union (EBU)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "read",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "realestate",
+            "Registry operator": "dotRealEstate LLC",
+            "Organization": "dotRealEstate LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "realtor",
+            "Registry operator": "Real Estate Domains LLC",
+            "Organization": "Real Estate Domains LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "realty",
+            "Registry operator": "Fegistry, LLC",
+            "Organization": "Fegistry, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "recipes",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "red",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "redumbrella",
+            "Registry operator": "Travelers TLD, LLC",
+            "Organization": "Travelers TLD, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rehab",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "reise",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "reisen",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "reit",
+            "Registry operator": "National Association of Real Estate Investment Trusts, Inc.",
+            "Organization": "National Association of Real Estate Investment Trusts, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ren",
+            "Registry operator": "ZDNS International Limited",
+            "Organization": "ZDNS International Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rent",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rentals",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "repair",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "report",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "republican",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rest",
+            "Registry operator": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
+            "Organization": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "restaurant",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "review",
+            "Registry operator": "dot Review Limited",
+            "Organization": "dot Review Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "reviews",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rich",
+            "Registry operator": "I-Registry Ltd.",
+            "Organization": "I-Registry Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "richardli",
+            "Registry operator": "Pacific Century Asset Management (HK) Limited",
+            "Organization": "Pacific Century Asset Management (HK) Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rio",
+            "Registry operator": "Empresa Municipal de Inform\u00e1tica SA - IPLANRIO",
+            "Organization": "Empresa Municipal de Inform\u00e1tica SA - IPLANRIO",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rip",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rocks",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rodeo",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "room",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rsvp",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "rugby",
+            "Registry operator": "World Rugby Strategic Developments Limited",
+            "Organization": "World Rugby Strategic Developments Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ruhr",
+            "Registry operator": "regiodot GmbH & Co. KG",
+            "Organization": "regiodot GmbH & Co. KG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "run",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ryukyu",
+            "Registry operator": "BRregistry, Inc.",
+            "Organization": "BRregistry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "saarland",
+            "Registry operator": "dotSaarland GmbH",
+            "Organization": "dotSaarland GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "safe",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "safety",
+            "Registry operator": "Safety Registry Services, LLC.",
+            "Organization": "Safety Registry Services, LLC.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sakura",
+            "Registry operator": "SAKURA Internet Inc.",
+            "Organization": "SAKURA Internet Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sale",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "salon",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "samsung",
+            "Registry operator": "SAMSUNG SDS CO., LTD",
+            "Organization": "SAMSUNG SDS CO., LTD",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sarl",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "save",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "scholarships",
+            "Registry operator": "Scholarships.com, LLC",
+            "Organization": "Scholarships.com, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "school",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "schule",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "science",
+            "Registry operator": "dot Science Limited",
+            "Organization": "dot Science Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "scot",
+            "Registry operator": "Dot Scot Registry Limited",
+            "Organization": "Dot Scot Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "search",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "secure",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "security",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "select",
+            "Registry operator": "Registry Services, LLC",
+            "Organization": "Registry Services, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "services",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sex",
+            "Registry operator": "ICM Registry SX LLC",
+            "Organization": "ICM Registry SX LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sexy",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shia",
+            "Registry operator": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Organization": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shiksha",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shoes",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shop",
+            "Registry operator": "GMO Registry, Inc.",
+            "Organization": "GMO Registry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shopping",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shouji",
+            "Registry operator": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Organization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "show",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "shriram",
+            "Registry operator": "Shriram Capital Ltd.",
+            "Organization": "Shriram Capital Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "singles",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "site",
+            "Registry operator": "DotSite Inc.",
+            "Organization": "DotSite Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ski",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "skin",
+            "Registry operator": "L'Or\u00e9al",
+            "Organization": "L'Or\u00e9al",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "smile",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "soccer",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "social",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "software",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sohu",
+            "Registry operator": "Sohu.com Limited",
+            "Organization": "Sohu.com Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "solar",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "solutions",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "song",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "soy",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "spa",
+            "Registry operator": "Asia Spa and Wellness Promotion Council Limited",
+            "Organization": "Asia Spa and Wellness Promotion Council Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "space",
+            "Registry operator": "DotSpace Inc.",
+            "Organization": "DotSpace Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sport",
+            "Registry operator": "Global Association of International Sports Federations (GAISF)",
+            "Organization": "Global Association of International Sports Federations (GAISF)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "spot",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "spreadbetting",
+            "Registry operator": "Dotspreadbetting Registry Limited",
+            "Organization": "Dotspreadbetting Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "srl",
+            "Registry operator": "InterNetX, Corp",
+            "Organization": "InterNetX, Corp",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "srt",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "star",
+            "Registry operator": "Star India Private Limited",
+            "Organization": "Star India Private Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "stc",
+            "Registry operator": "Saudi Telecom Company",
+            "Organization": "Saudi Telecom Company",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "stcgroup",
+            "Registry operator": "Saudi Telecom Company",
+            "Organization": "Saudi Telecom Company",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "stockholm",
+            "Registry operator": "Stockholms kommun",
+            "Organization": "Stockholms kommun",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "storage",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "store",
+            "Registry operator": "DotStore Inc.",
+            "Organization": "DotStore Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "stream",
+            "Registry operator": "dot Stream Limited",
+            "Organization": "dot Stream Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "studio",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "study",
+            "Registry operator": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+            "Organization": "OPEN UNIVERSITIES AUSTRALIA PTY LTD",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "style",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sucks",
+            "Registry operator": "Vox Populi Registry Ltd.",
+            "Organization": "Vox Populi Registry Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "supplies",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "supply",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "support",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "surf",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "surgery",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "swiss",
+            "Registry operator": "Swiss Confederation",
+            "Organization": "Swiss Confederation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "sydney",
+            "Registry operator": "State of New South Wales, Department of Premier and Cabinet",
+            "Organization": "State of New South Wales, Department of Premier and Cabinet",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "systems",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "taipei",
+            "Registry operator": "Taipei City Government",
+            "Organization": "Taipei City Government",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "talk",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tatar",
+            "Registry operator": "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\"",
+            "Organization": "Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\"",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tattoo",
+            "Registry operator": "Uniregistry, Corp.",
+            "Organization": "Uniregistry, Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tax",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "taxi",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tci",
+            "Registry operator": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Organization": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "team",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tech",
+            "Registry operator": "Personals TLD Inc.",
+            "Organization": "Personals TLD Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "technology",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tel",
+            "Registry operator": "Telnames Limited",
+            "Organization": "Telnames Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "telefonica",
+            "Registry operator": "Telef\u00f3nica S.A.",
+            "Organization": "Telef\u00f3nica S.A.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tennis",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "thd",
+            "Registry operator": "Home Depot Product Authority, LLC",
+            "Organization": "Home Depot Product Authority, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "theater",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "theatre",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tickets",
+            "Registry operator": "Accent Media Limited",
+            "Organization": "Accent Media Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tienda",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tips",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tires",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tirol",
+            "Registry operator": "punkt Tirol GmbH",
+            "Organization": "punkt Tirol GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "today",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tokyo",
+            "Registry operator": "GMO Registry, Inc.",
+            "Organization": "GMO Registry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tools",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "top",
+            "Registry operator": ".TOP Registry",
+            "Organization": ".TOP Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tours",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "town",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "toys",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "trade",
+            "Registry operator": "Elite Registry Limited",
+            "Organization": "Elite Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "trading",
+            "Registry operator": "Dottrading Registry Limited",
+            "Organization": "Dottrading Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "training",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "travel",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "travelersinsurance",
+            "Registry operator": "Travelers TLD, LLC",
+            "Organization": "Travelers TLD, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "trust",
+            "Registry operator": "NCC Group Inc.",
+            "Organization": "NCC Group Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "trv",
+            "Registry operator": "Travelers TLD, LLC",
+            "Organization": "Travelers TLD, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tube",
+            "Registry operator": "Latin American Telecom LLC",
+            "Organization": "Latin American Telecom LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tunes",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tushu",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "tvs",
+            "Registry operator": "T V SUNDRAM IYENGAR  & SONS LIMITED",
+            "Organization": "T V SUNDRAM IYENGAR  & SONS LIMITED",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "uconnect",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "university",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "uno",
+            "Registry operator": "DotSite Inc.",
+            "Organization": "DotSite Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vacations",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vana",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vegas",
+            "Registry operator": "Dot Vegas, Inc.",
+            "Organization": "Dot Vegas, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "ventures",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "versicherung",
+            "Registry operator": "tldbox GmbH",
+            "Organization": "tldbox GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vet",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "viajes",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "video",
+            "Registry operator": "Dog Beach, LLC",
+            "Organization": "Dog Beach, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "villas",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vin",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vip",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vision",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "viva",
+            "Registry operator": "Saudi Telecom Company",
+            "Organization": "Saudi Telecom Company",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vlaanderen",
+            "Registry operator": "DNS.be vzw",
+            "Organization": "DNS.be vzw",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vodka",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vote",
+            "Registry operator": "Monolith Registry LLC",
+            "Organization": "Monolith Registry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "voting",
+            "Registry operator": "Valuetainment Corp.",
+            "Organization": "Valuetainment Corp.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "voto",
+            "Registry operator": "Monolith Registry LLC",
+            "Organization": "Monolith Registry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "voyage",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "vuelos",
+            "Registry operator": "Travel Reservations SRL",
+            "Organization": "Travel Reservations SRL",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wales",
+            "Registry operator": "Nominet UK",
+            "Organization": "Nominet UK",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wang",
+            "Registry operator": "Zodiac Wang Limited",
+            "Organization": "Zodiac Wang Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wanggou",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "warman",
+            "Registry operator": "Weir Group IP Limited",
+            "Organization": "Weir Group IP Limited",
+            "Specification13": null
+        },
+        {
+            "Generic top-level domain": "watch",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "watches",
+            "Registry operator": "Richemont DNS Inc.",
+            "Organization": "Richemont DNS Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "weather",
+            "Registry operator": "International Business Machines Corporation",
+            "Organization": "International Business Machines Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "webcam",
+            "Registry operator": "dot Webcam Limited",
+            "Organization": "dot Webcam Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "website",
+            "Registry operator": "DotWebsite Inc.",
+            "Organization": "DotWebsite Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wed",
+            "Registry operator": "Atgron, Inc.",
+            "Organization": "Atgron, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wedding",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "weibo",
+            "Registry operator": "Sina Corporation",
+            "Organization": "Sina Corporation",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "whoswho",
+            "Registry operator": "Who's Who Registry",
+            "Organization": "Who's Who Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wien",
+            "Registry operator": "punkt.wien GmbH",
+            "Organization": "punkt.wien GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wiki",
+            "Registry operator": "Top Level Design, LLC",
+            "Organization": "Top Level Design, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "win",
+            "Registry operator": "First Registry Limited",
+            "Organization": "First Registry Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wine",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "work",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "works",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "world",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wow",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "wtf",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xihuan",
+            "Registry operator": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Organization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xin",
+            "Registry operator": "Elegant Leader Limited",
+            "Organization": "Elegant Leader Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--11b4c3d",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--1ck2e1b",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--1qqw23a",
+            "Registry operator": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Organization": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--30rr7y",
+            "Registry operator": "Excellent First Limited",
+            "Organization": "Excellent First Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--3bst00m",
+            "Registry operator": "Eagle Horizon Limited",
+            "Organization": "Eagle Horizon Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--3ds443g",
+            "Registry operator": "TLD REGISTRY LIMITED OY",
+            "Organization": "TLD REGISTRY LIMITED OY",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--3pxu8k",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--42c2d9a",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--45q11c",
+            "Registry operator": "Zodiac Gemini Ltd",
+            "Organization": "Zodiac Gemini Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--4gbrim",
+            "Registry operator": "Suhub Electronic Establishment",
+            "Organization": "Suhub Electronic Establishment",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--55qw42g",
+            "Registry operator": "China Organizational Name Administration Center",
+            "Organization": "China Organizational Name Administration Center",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--55qx5d",
+            "Registry operator": "China Internet Network Information Center (CNNIC)",
+            "Organization": "China Internet Network Information Center (CNNIC)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--5tzm5g",
+            "Registry operator": "Global Website TLD Asia Limited",
+            "Organization": "Global Website TLD Asia Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--6frz82g",
+            "Registry operator": "Afilias Limited",
+            "Organization": "Afilias Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--6qq986b3xl",
+            "Registry operator": "Tycoon Treasure Limited",
+            "Organization": "Tycoon Treasure Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--80adxhks",
+            "Registry operator": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+            "Organization": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--80aqecdr1a",
+            "Registry operator": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Organization": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--80asehdb",
+            "Registry operator": "CORE Association",
+            "Organization": "CORE Association",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--80aswg",
+            "Registry operator": "CORE Association",
+            "Organization": "CORE Association",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--9dbq2a",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--9et52u",
+            "Registry operator": "RISE VICTORY LIMITED",
+            "Organization": "RISE VICTORY LIMITED",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--bck1b9a5dre4c",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--c1avg",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--c2br7g",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--cck2b3b",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--cg4bki",
+            "Registry operator": "SAMSUNG SDS CO., LTD",
+            "Organization": "SAMSUNG SDS CO., LTD",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--czr694b",
+            "Registry operator": "Internet DotTrademark Organisation Limited",
+            "Organization": "Internet DotTrademark Organisation Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--czrs0t",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--czru2d",
+            "Registry operator": "Zodiac Aquarius Limited",
+            "Organization": "Zodiac Aquarius Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--d1acj3b",
+            "Registry operator": "The Foundation for Network Initiatives \u201cThe Smart Internet\u201d",
+            "Organization": "The Foundation for Network Initiatives \u201cThe Smart Internet\u201d",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--eckvdtc9d",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--efvy88h",
+            "Registry operator": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Organization": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--fct429k",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--fhbei",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--fiq228c5hs",
+            "Registry operator": "TLD REGISTRY LIMITED OY",
+            "Organization": "TLD REGISTRY LIMITED OY",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--fjq720a",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--g2xx48c",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--gckr3f0f",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--gk3at1e",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--hxt814e",
+            "Registry operator": "Zodiac Taurus Limited",
+            "Organization": "Zodiac Taurus Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--i1b6b1a6a2e",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--imr513n",
+            "Registry operator": "Internet DotTrademark Organisation Limited",
+            "Organization": "Internet DotTrademark Organisation Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--io0a7i",
+            "Registry operator": "China Internet Network Information Center (CNNIC)",
+            "Organization": "China Internet Network Information Center (CNNIC)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--j1aef",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--jvr189m",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--kpu716f",
+            "Registry operator": "Richemont DNS Inc.",
+            "Organization": "Richemont DNS Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--kput3i",
+            "Registry operator": "Beijing RITT-Net Technology Development Co., Ltd",
+            "Organization": "Beijing RITT-Net Technology Development Co., Ltd",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgba3a3ejt",
+            "Registry operator": "Aramco Services Company",
+            "Organization": "Aramco Services Company",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgba7c0bbn0a",
+            "Registry operator": "Crescent Holding GmbH",
+            "Organization": "Crescent Holding GmbH",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgbaakc7dvf",
+            "Registry operator": "Emirates Telecommunications Corporation (trading as Etisalat)",
+            "Organization": "Emirates Telecommunications Corporation (trading as Etisalat)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgbab2bd",
+            "Registry operator": "CORE Association",
+            "Organization": "CORE Association",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgbca7dzdo",
+            "Registry operator": "Abu Dhabi Systems and Information Centre",
+            "Organization": "Abu Dhabi Systems and Information Centre",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgbi4ecexp",
+            "Registry operator": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Organization": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mgbt3dhd",
+            "Registry operator": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Organization": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mk1bu44c",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--mxtq1m",
+            "Registry operator": "Net-Chinese Co., Ltd.",
+            "Organization": "Net-Chinese Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--ngbc5azd",
+            "Registry operator": "International Domain Registry Pty. Ltd.",
+            "Organization": "International Domain Registry Pty. Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--ngbe9e0a",
+            "Registry operator": "Kuwait Finance House",
+            "Organization": "Kuwait Finance House",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--ngbrx",
+            "Registry operator": "League of Arab States",
+            "Organization": "League of Arab States",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--nqv7f",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--nqv7fs00ema",
+            "Registry operator": "Public Interest Registry",
+            "Organization": "Public Interest Registry",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--nyqy26a",
+            "Registry operator": "Stable Tone Limited",
+            "Organization": "Stable Tone Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--otu796d",
+            "Registry operator": "Internet DotTrademark Organisation Limited",
+            "Organization": "Internet DotTrademark Organisation Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--p1acf",
+            "Registry operator": "Rusnames Limited",
+            "Organization": "Rusnames Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--pbt977c",
+            "Registry operator": "Richemont DNS Inc.",
+            "Organization": "Richemont DNS Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--pssy2u",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--q9jyb4c",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--qcka1pmc",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--rhqv96g",
+            "Registry operator": "Stable Tone Limited",
+            "Organization": "Stable Tone Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--rovu88b",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--ses554g",
+            "Registry operator": "KNET Co., Ltd.",
+            "Organization": "KNET Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--t60b56a",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--tckwe",
+            "Registry operator": "VeriSign Sarl",
+            "Organization": "VeriSign Sarl",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--tiq49xqyj",
+            "Registry operator": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Organization": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--unup4y",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--vermgensberater-ctb",
+            "Registry operator": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Organization": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--vermgensberatung-pwb",
+            "Registry operator": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Organization": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--vhquv",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--vuq861b",
+            "Registry operator": "Beijing Tele-info Network Technology Co., Ltd.",
+            "Organization": "Beijing Tele-info Network Technology Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--w4r85el8fhu5dnra",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--xhq521b",
+            "Registry operator": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Organization": "Guangzhou YU Wei Information Technology Co., Ltd.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xn--zfr164b",
+            "Registry operator": "China Organizational Name Administration Center",
+            "Organization": "China Organizational Name Administration Center",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xxx",
+            "Registry operator": "ICM Registry LLC",
+            "Organization": "ICM Registry LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "xyz",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "yachts",
+            "Registry operator": "DERYachts, LLC",
+            "Organization": "DERYachts, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "yamaxun",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "yoga",
+            "Registry operator": "Minds + Machines Group Limited",
+            "Organization": "Minds + Machines Group Limited",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "yokohama",
+            "Registry operator": "GMO Registry, Inc.",
+            "Organization": "GMO Registry, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "you",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "yun",
+            "Registry operator": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Organization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "zero",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "zip",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "zone",
+            "Registry operator": "Binky Moon, LLC",
+            "Organization": "Binky Moon, LLC",
+            "Specification13": false
+        },
+        {
+            "Generic top-level domain": "zuerich",
+            "Registry operator": "Kanton Z\u00fcrich (Canton of Zurich)",
+            "Organization": "Kanton Z\u00fcrich (Canton of Zurich)",
+            "Specification13": false
+        }
+    ],
+    "updatedOn": "24.12.2019, 11:05:43",
+    "version": 2,
+    "source": "https://www.icann.org/resources/registries/gtlds/v2/gtlds.json"
+}
