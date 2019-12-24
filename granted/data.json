@@ -1,0 +1,2653 @@
+{
+    "gTLDs": [
+        {
+            "Generic top-level domain": "aaa",
+            "Registry operator": "American Automobile Association, Inc.",
+            "Organization": "American Automobile Association, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aarp",
+            "Registry operator": "AARP",
+            "Organization": "AARP",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "abarth",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "abb",
+            "Registry operator": "ABB Ltd",
+            "Organization": "ABB Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "abbott",
+            "Registry operator": "Abbott Laboratories, Inc.",
+            "Organization": "Abbott Laboratories, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "abbvie",
+            "Registry operator": "AbbVie Inc.",
+            "Organization": "AbbVie Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "abc",
+            "Registry operator": "Disney Enterprises, Inc.",
+            "Organization": "Disney Enterprises, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "accenture",
+            "Registry operator": "Accenture plc",
+            "Organization": "Accenture plc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aco",
+            "Registry operator": "ACO Severin Ahlmann GmbH & Co. KG",
+            "Organization": "ACO Severin Ahlmann GmbH & Co. KG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "adac",
+            "Registry operator": "Allgemeiner Deutscher Automobil-Club e.V. (ADAC)",
+            "Organization": "Allgemeiner Deutscher Automobil-Club e.V. (ADAC)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aeg",
+            "Registry operator": "Aktiebolaget Electrolux",
+            "Organization": "Aktiebolaget Electrolux",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aetna",
+            "Registry operator": "Aetna Life Insurance Company",
+            "Organization": "Aetna Life Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "afamilycompany",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "afl",
+            "Registry operator": "Australian Football League",
+            "Organization": "Australian Football League",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aig",
+            "Registry operator": "American International Group, Inc.",
+            "Organization": "American International Group, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aigo",
+            "Registry operator": "aigo Digital Technology Co,Ltd.",
+            "Organization": "aigo Digital Technology Co,Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "airbus",
+            "Registry operator": "Airbus S.A.S.",
+            "Organization": "Airbus S.A.S.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "airtel",
+            "Registry operator": "Bharti Airtel Limited",
+            "Organization": "Bharti Airtel Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "alfaromeo",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "alibaba",
+            "Registry operator": "Alibaba Group Holding Limited",
+            "Organization": "Alibaba Group Holding Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "alipay",
+            "Registry operator": "Alibaba Group Holding Limited",
+            "Organization": "Alibaba Group Holding Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "allstate",
+            "Registry operator": "Allstate Fire and Casualty Insurance Company",
+            "Organization": "Allstate Fire and Casualty Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ally",
+            "Registry operator": "Ally Financial Inc.",
+            "Organization": "Ally Financial Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "alstom",
+            "Registry operator": "ALSTOM",
+            "Organization": "ALSTOM",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "amazon",
+            "Registry operator": "Amazon EU S.\u00e0 r.l.",
+            "Organization": "Amazon EU S.\u00e0 r.l.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "americanexpress",
+            "Registry operator": "American Express Travel Related Services Company, Inc.",
+            "Organization": "American Express Travel Related Services Company, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "americanfamily",
+            "Registry operator": "AmFam, Inc.",
+            "Organization": "AmFam, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "amex",
+            "Registry operator": "American Express Travel Related Services Company, Inc.",
+            "Organization": "American Express Travel Related Services Company, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "amfam",
+            "Registry operator": "AmFam, Inc.",
+            "Organization": "AmFam, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "amica",
+            "Registry operator": "Amica Mutual Insurance Company",
+            "Organization": "Amica Mutual Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "android",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "anz",
+            "Registry operator": "Australia and New Zealand Banking Group Limited",
+            "Organization": "Australia and New Zealand Banking Group Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aol",
+            "Registry operator": "Oath Inc.",
+            "Organization": "Oath Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "apple",
+            "Registry operator": "Apple Inc.",
+            "Organization": "Apple Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aquarelle",
+            "Registry operator": "Aquarelle.com",
+            "Organization": "Aquarelle.com",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "arte",
+            "Registry operator": "Association Relative \u00e0 la T\u00e9l\u00e9vision Europ\u00e9enne G.E.I.E.",
+            "Organization": "Association Relative \u00e0 la T\u00e9l\u00e9vision Europ\u00e9enne G.E.I.E.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "asda",
+            "Registry operator": "Wal-Mart Stores, Inc.",
+            "Organization": "Wal-Mart Stores, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "athleta",
+            "Registry operator": "The Gap, Inc.",
+            "Organization": "The Gap, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "audi",
+            "Registry operator": "AUDI Aktiengesellschaft",
+            "Organization": "AUDI Aktiengesellschaft",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "audible",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "auspost",
+            "Registry operator": "Australian Postal Corporation",
+            "Organization": "Australian Postal Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "aws",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "axa",
+            "Registry operator": "AXA SA",
+            "Organization": "AXA SA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "azure",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "banamex",
+            "Registry operator": "Citigroup Inc.",
+            "Organization": "Citigroup Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bananarepublic",
+            "Registry operator": "The Gap, Inc.",
+            "Organization": "The Gap, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "barclaycard",
+            "Registry operator": "Barclays Bank PLC",
+            "Organization": "Barclays Bank PLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "barclays",
+            "Registry operator": "Barclays Bank PLC",
+            "Organization": "Barclays Bank PLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "barefoot",
+            "Registry operator": "Gallo Vineyards, Inc.",
+            "Organization": "Gallo Vineyards, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bauhaus",
+            "Registry operator": "Werkhaus GmbH",
+            "Organization": "Werkhaus GmbH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bbc",
+            "Registry operator": "British Broadcasting Corporation",
+            "Organization": "British Broadcasting Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bbt",
+            "Registry operator": "BB&T Corporation",
+            "Organization": "BB&T Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bbva",
+            "Registry operator": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+            "Organization": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bcg",
+            "Registry operator": "The Boston Consulting Group, Inc.",
+            "Organization": "The Boston Consulting Group, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "beats",
+            "Registry operator": "Beats Electronics, LLC",
+            "Organization": "Beats Electronics, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bentley",
+            "Registry operator": "Bentley Motors Limited",
+            "Organization": "Bentley Motors Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bestbuy",
+            "Registry operator": "BBY Solutions, Inc.",
+            "Organization": "BBY Solutions, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bharti",
+            "Registry operator": "Bharti Enterprises (Holding) Private Limited",
+            "Organization": "Bharti Enterprises (Holding) Private Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bing",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "blockbuster",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bloomberg",
+            "Registry operator": "Bloomberg IP Holdings LLC",
+            "Organization": "Bloomberg IP Holdings LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bms",
+            "Registry operator": "Bristol-Myers Squibb Company",
+            "Organization": "Bristol-Myers Squibb Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bmw",
+            "Registry operator": "Bayerische Motoren Werke Aktiengesellschaft",
+            "Organization": "Bayerische Motoren Werke Aktiengesellschaft",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bnpparibas",
+            "Registry operator": "BNP Paribas",
+            "Organization": "BNP Paribas",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "boehringer",
+            "Registry operator": "Boehringer Ingelheim International GmbH",
+            "Organization": "Boehringer Ingelheim International GmbH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bofa",
+            "Registry operator": "Bank of America Corporation",
+            "Organization": "Bank of America Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bosch",
+            "Registry operator": "Robert Bosch GMBH",
+            "Organization": "Robert Bosch GMBH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bostik",
+            "Registry operator": "Bostik SA",
+            "Organization": "Bostik SA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bradesco",
+            "Registry operator": "Banco Bradesco S.A.",
+            "Organization": "Banco Bradesco S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bridgestone",
+            "Registry operator": "Bridgestone Corporation",
+            "Organization": "Bridgestone Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "brother",
+            "Registry operator": "Brother Industries, Ltd.",
+            "Organization": "Brother Industries, Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "bugatti",
+            "Registry operator": "Bugatti International SA",
+            "Organization": "Bugatti International SA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "calvinklein",
+            "Registry operator": "PVH gTLD Holdings LLC",
+            "Organization": "PVH gTLD Holdings LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "canon",
+            "Registry operator": "Canon Inc.",
+            "Organization": "Canon Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "capitalone",
+            "Registry operator": "Capital One Financial Corporation",
+            "Organization": "Capital One Financial Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "caravan",
+            "Registry operator": "Caravan International, Inc.",
+            "Organization": "Caravan International, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "case",
+            "Registry operator": "CNH Industrial N.V.",
+            "Organization": "CNH Industrial N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "caseih",
+            "Registry operator": "CNH Industrial N.V.",
+            "Organization": "CNH Industrial N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cba",
+            "Registry operator": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Organization": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cbn",
+            "Registry operator": "The Christian Broadcasting Network, Inc.",
+            "Organization": "The Christian Broadcasting Network, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cbre",
+            "Registry operator": "CBRE, Inc.",
+            "Organization": "CBRE, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cbs",
+            "Registry operator": "CBS Domains Inc.",
+            "Organization": "CBS Domains Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ceb",
+            "Registry operator": "The Corporate Executive Board Company",
+            "Organization": "The Corporate Executive Board Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cern",
+            "Registry operator": "European Organization for Nuclear Research (\"CERN\")",
+            "Organization": "European Organization for Nuclear Research (\"CERN\")",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cfa",
+            "Registry operator": "CFA Institute",
+            "Organization": "CFA Institute",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "chanel",
+            "Registry operator": "Chanel International B.V.",
+            "Organization": "Chanel International B.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "chase",
+            "Registry operator": "JPMorgan Chase Bank, National Association",
+            "Organization": "JPMorgan Chase Bank, National Association",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "chintai",
+            "Registry operator": "CHINTAI Corporation",
+            "Organization": "CHINTAI Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "chrome",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cipriani",
+            "Registry operator": "Hotel Cipriani Srl",
+            "Organization": "Hotel Cipriani Srl",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cisco",
+            "Registry operator": "Cisco Technology, Inc.",
+            "Organization": "Cisco Technology, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "citadel",
+            "Registry operator": "Citadel Domain LLC",
+            "Organization": "Citadel Domain LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "citi",
+            "Registry operator": "Citigroup Inc.",
+            "Organization": "Citigroup Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "citic",
+            "Registry operator": "CITIC Group Corporation",
+            "Organization": "CITIC Group Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "clinique",
+            "Registry operator": "The Est\u00e9e Lauder Companies Inc.",
+            "Organization": "The Est\u00e9e Lauder Companies Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "clubmed",
+            "Registry operator": "Club M\u00e9diterran\u00e9e S.A.",
+            "Organization": "Club M\u00e9diterran\u00e9e S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "comcast",
+            "Registry operator": "Comcast IP Holdings I, LLC",
+            "Organization": "Comcast IP Holdings I, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "commbank",
+            "Registry operator": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Organization": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cookingchannel",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "crown",
+            "Registry operator": "Crown Equipment Corporation",
+            "Organization": "Crown Equipment Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "csc",
+            "Registry operator": "Alliance-One Services, Inc.",
+            "Organization": "Alliance-One Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "cuisinella",
+            "Registry operator": "SCHMIDT GROUPE S.A.S.",
+            "Organization": "SCHMIDT GROUPE S.A.S.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dabur",
+            "Registry operator": "Dabur India Limited",
+            "Organization": "Dabur India Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "datsun",
+            "Registry operator": "NISSAN MOTOR CO., LTD.",
+            "Organization": "NISSAN MOTOR CO., LTD.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dell",
+            "Registry operator": "Dell Inc.",
+            "Organization": "Dell Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "deloitte",
+            "Registry operator": "Deloitte Touche Tohmatsu",
+            "Organization": "Deloitte Touche Tohmatsu",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "delta",
+            "Registry operator": "Delta Air Lines, Inc.",
+            "Organization": "Delta Air Lines, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dhl",
+            "Registry operator": "Deutsche Post AG",
+            "Organization": "Deutsche Post AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "discover",
+            "Registry operator": "Discover Financial Services",
+            "Organization": "Discover Financial Services",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dish",
+            "Registry operator": "Dish DBS Corporation",
+            "Organization": "Dish DBS Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "diy",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dnp",
+            "Registry operator": "Dai Nippon Printing Co., Ltd.",
+            "Organization": "Dai Nippon Printing Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "duck",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dunlop",
+            "Registry operator": "The Goodyear Tire & Rubber Company",
+            "Organization": "The Goodyear Tire & Rubber Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dupont",
+            "Registry operator": "E. I. du Pont de Nemours and Company",
+            "Organization": "E. I. du Pont de Nemours and Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "dvag",
+            "Registry operator": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Organization": "Deutsche Verm\u00f6gensberatung Aktiengesellschaft DVAG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "edeka",
+            "Registry operator": "EDEKA Verband kaufm\u00e4nnischer Genossenschaften e.V.",
+            "Organization": "EDEKA Verband kaufm\u00e4nnischer Genossenschaften e.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "emerck",
+            "Registry operator": "Merck KGaA",
+            "Organization": "Merck KGaA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "epson",
+            "Registry operator": "Seiko Epson Corporation",
+            "Organization": "Seiko Epson Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ericsson",
+            "Registry operator": "Telefonaktiebolaget L M Ericsson",
+            "Organization": "Telefonaktiebolaget L M Ericsson",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "esurance",
+            "Registry operator": "Esurance Insurance Company",
+            "Organization": "Esurance Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "etisalat",
+            "Registry operator": "Emirates Telecommunications Corporation (trading as Etisalat)",
+            "Organization": "Emirates Telecommunications Corporation (trading as Etisalat)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "eurovision",
+            "Registry operator": "European Broadcasting Union (EBU)",
+            "Organization": "European Broadcasting Union (EBU)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "extraspace",
+            "Registry operator": "Extra Space Storage LLC",
+            "Organization": "Extra Space Storage LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fage",
+            "Registry operator": "Fage International S.A.",
+            "Organization": "Fage International S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fairwinds",
+            "Registry operator": "FairWinds Partners, LLC",
+            "Organization": "FairWinds Partners, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "farmers",
+            "Registry operator": "Farmers Insurance Exchange",
+            "Organization": "Farmers Insurance Exchange",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fedex",
+            "Registry operator": "Federal Express Corporation",
+            "Organization": "Federal Express Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ferrari",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ferrero",
+            "Registry operator": "Ferrero Trading Lux S.A.",
+            "Organization": "Ferrero Trading Lux S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fiat",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fidelity",
+            "Registry operator": "Fidelity Brokerage Services LLC",
+            "Organization": "Fidelity Brokerage Services LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fido",
+            "Registry operator": "Rogers Communications Canada Inc.",
+            "Organization": "Rogers Communications Canada Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fire",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "firestone",
+            "Registry operator": "Bridgestone Licensing Services, Inc",
+            "Organization": "Bridgestone Licensing Services, Inc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "flickr",
+            "Registry operator": "Yahoo! Domain Services Inc.",
+            "Organization": "Yahoo! Domain Services Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "flir",
+            "Registry operator": "FLIR Systems, Inc.",
+            "Organization": "FLIR Systems, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "food",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "foodnetwork",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ford",
+            "Registry operator": "Ford Motor Company",
+            "Organization": "Ford Motor Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fox",
+            "Registry operator": "FOX Registry, LLC",
+            "Organization": "FOX Registry, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fresenius",
+            "Registry operator": "Fresenius Immobilien-Verwaltungs-GmbH",
+            "Organization": "Fresenius Immobilien-Verwaltungs-GmbH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "frogans",
+            "Registry operator": "OP3FT",
+            "Organization": "OP3FT",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "frontdoor",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "frontier",
+            "Registry operator": "Frontier Communications Corporation",
+            "Organization": "Frontier Communications Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fujitsu",
+            "Registry operator": "Fujitsu Limited",
+            "Organization": "Fujitsu Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "fujixerox",
+            "Registry operator": "Xerox DNHC LLC",
+            "Organization": "Xerox DNHC LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gallo",
+            "Registry operator": "Gallo Vineyards, Inc.",
+            "Organization": "Gallo Vineyards, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gallup",
+            "Registry operator": "Gallup, Inc.",
+            "Organization": "Gallup, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gap",
+            "Registry operator": "The Gap, Inc.",
+            "Organization": "The Gap, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gea",
+            "Registry operator": "GEA Group Aktiengesellschaft",
+            "Organization": "GEA Group Aktiengesellschaft",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "genting",
+            "Registry operator": "Resorts World Inc Pte. Ltd.",
+            "Organization": "Resorts World Inc Pte. Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "george",
+            "Registry operator": "Wal-Mart Stores, Inc.",
+            "Organization": "Wal-Mart Stores, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "glade",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gmail",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gmo",
+            "Registry operator": "GMO Internet, Inc.",
+            "Organization": "GMO Internet, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gmx",
+            "Registry operator": "1&1 Mail & Media GmbH",
+            "Organization": "1&1 Mail & Media GmbH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "godaddy",
+            "Registry operator": "Go Daddy East, LLC",
+            "Organization": "Go Daddy East, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "goldpoint",
+            "Registry operator": "YODOBASHI CAMERA CO.,LTD.",
+            "Organization": "YODOBASHI CAMERA CO.,LTD.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "goo",
+            "Registry operator": "NTT Resonant Inc.",
+            "Organization": "NTT Resonant Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "goodyear",
+            "Registry operator": "The Goodyear Tire & Rubber Company",
+            "Organization": "The Goodyear Tire & Rubber Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "google",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "grainger",
+            "Registry operator": "Grainger Registry Services, LLC",
+            "Organization": "Grainger Registry Services, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "guardian",
+            "Registry operator": "The Guardian Life Insurance Company of America",
+            "Organization": "The Guardian Life Insurance Company of America",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "gucci",
+            "Registry operator": "Guccio Gucci S.p.a.",
+            "Organization": "Guccio Gucci S.p.a.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hbo",
+            "Registry operator": "HBO Registry Services, Inc.",
+            "Organization": "HBO Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hdfc",
+            "Registry operator": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
+            "Organization": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hdfcbank",
+            "Registry operator": "HDFC Bank Limited",
+            "Organization": "HDFC Bank Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hermes",
+            "Registry operator": "HERMES INTERNATIONAL",
+            "Organization": "HERMES INTERNATIONAL",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hgtv",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hisamitsu",
+            "Registry operator": "Hisamitsu Pharmaceutical Co.,Inc.",
+            "Organization": "Hisamitsu Pharmaceutical Co.,Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hitachi",
+            "Registry operator": "Hitachi, Ltd.",
+            "Organization": "Hitachi, Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hkt",
+            "Registry operator": "PCCW-HKT DataCom Services Limited",
+            "Organization": "PCCW-HKT DataCom Services Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "homedepot",
+            "Registry operator": "Home Depot Product Authority, LLC",
+            "Organization": "Home Depot Product Authority, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "homegoods",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "homesense",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "honda",
+            "Registry operator": "Honda Motor Co., Ltd.",
+            "Organization": "Honda Motor Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hotmail",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hsbc",
+            "Registry operator": "HSBC Global Services (UK) Limited",
+            "Organization": "HSBC Global Services (UK) Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hughes",
+            "Registry operator": "Hughes Satellite Systems Corporation",
+            "Organization": "Hughes Satellite Systems Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hyatt",
+            "Registry operator": "Hyatt GTLD, L.L.C.",
+            "Organization": "Hyatt GTLD, L.L.C.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "hyundai",
+            "Registry operator": "Hyundai Motor Company",
+            "Organization": "Hyundai Motor Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ibm",
+            "Registry operator": "International Business Machines Corporation",
+            "Organization": "International Business Machines Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "icbc",
+            "Registry operator": "Industrial and Commercial Bank of China Limited",
+            "Organization": "Industrial and Commercial Bank of China Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ice",
+            "Registry operator": "IntercontinentalExchange, Inc.",
+            "Organization": "IntercontinentalExchange, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ieee",
+            "Registry operator": "IEEE Global LLC",
+            "Organization": "IEEE Global LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ifm",
+            "Registry operator": "ifm electronic gmbh",
+            "Organization": "ifm electronic gmbh",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ikano",
+            "Registry operator": "Ikano S.A.",
+            "Organization": "Ikano S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "imdb",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "infiniti",
+            "Registry operator": "NISSAN MOTOR CO., LTD.",
+            "Organization": "NISSAN MOTOR CO., LTD.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "intel",
+            "Registry operator": "Intel Corporation",
+            "Organization": "Intel Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "intuit",
+            "Registry operator": "Intuit Administrative Services, Inc.",
+            "Organization": "Intuit Administrative Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ipiranga",
+            "Registry operator": "Ipiranga Produtos de Petroleo S.A.",
+            "Organization": "Ipiranga Produtos de Petroleo S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "itau",
+            "Registry operator": "Itau Unibanco Holding S.A.",
+            "Organization": "Itau Unibanco Holding S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "itv",
+            "Registry operator": "ITV Services Limited",
+            "Organization": "ITV Services Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "iveco",
+            "Registry operator": "CNH Industrial N.V.",
+            "Organization": "CNH Industrial N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jaguar",
+            "Registry operator": "Jaguar Land Rover Ltd",
+            "Organization": "Jaguar Land Rover Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "java",
+            "Registry operator": "Oracle Corporation",
+            "Organization": "Oracle Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jcb",
+            "Registry operator": "JCB Co., Ltd.",
+            "Organization": "JCB Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jcp",
+            "Registry operator": "JCP Media, Inc.",
+            "Organization": "JCP Media, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jeep",
+            "Registry operator": "FCA US LLC.",
+            "Organization": "FCA US LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jio",
+            "Registry operator": "Reliance Industries Limited",
+            "Organization": "Reliance Industries Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jll",
+            "Registry operator": "Jones Lang LaSalle Incorporated",
+            "Organization": "Jones Lang LaSalle Incorporated",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jmp",
+            "Registry operator": "Matrix IP LLC",
+            "Organization": "Matrix IP LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jnj",
+            "Registry operator": "Johnson & Johnson Services, Inc.",
+            "Organization": "Johnson & Johnson Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "jpmorgan",
+            "Registry operator": "JPMorgan Chase Bank, National Association",
+            "Organization": "JPMorgan Chase Bank, National Association",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "juniper",
+            "Registry operator": "JUNIPER NETWORKS, INC.",
+            "Organization": "JUNIPER NETWORKS, INC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kddi",
+            "Registry operator": "KDDI CORPORATION",
+            "Organization": "KDDI CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kia",
+            "Registry operator": "KIA MOTORS CORPORATION",
+            "Organization": "KIA MOTORS CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kinder",
+            "Registry operator": "Ferrero Trading Lux S.A.",
+            "Organization": "Ferrero Trading Lux S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kindle",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "komatsu",
+            "Registry operator": "Komatsu Ltd.",
+            "Organization": "Komatsu Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kpmg",
+            "Registry operator": "KPMG International Cooperative (KPMG International Genossenschaft)",
+            "Organization": "KPMG International Cooperative (KPMG International Genossenschaft)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "kpn",
+            "Registry operator": "Koninklijke KPN N.V.",
+            "Organization": "Koninklijke KPN N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lamborghini",
+            "Registry operator": "Automobili Lamborghini S.p.A.",
+            "Organization": "Automobili Lamborghini S.p.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lamer",
+            "Registry operator": "The Est\u00e9e Lauder Companies Inc.",
+            "Organization": "The Est\u00e9e Lauder Companies Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lancaster",
+            "Registry operator": "LANCASTER",
+            "Organization": "LANCASTER",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lancia",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "landrover",
+            "Registry operator": "Jaguar Land Rover Ltd",
+            "Organization": "Jaguar Land Rover Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lanxess",
+            "Registry operator": "LANXESS Corporation",
+            "Organization": "LANXESS Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "latrobe",
+            "Registry operator": "La Trobe University",
+            "Organization": "La Trobe University",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lds",
+            "Registry operator": "IRI Domain Management, LLC (\"Applicant\")",
+            "Organization": "IRI Domain Management, LLC (\"Applicant\")",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "leclerc",
+            "Registry operator": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc",
+            "Organization": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lefrak",
+            "Registry operator": "LeFrak Organization, Inc.",
+            "Organization": "LeFrak Organization, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lego",
+            "Registry operator": "LEGO Juris A/S",
+            "Organization": "LEGO Juris A/S",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lexus",
+            "Registry operator": "TOYOTA MOTOR CORPORATION",
+            "Organization": "TOYOTA MOTOR CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "liaison",
+            "Registry operator": "Liaison Technologies, Incorporated",
+            "Organization": "Liaison Technologies, Incorporated",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lidl",
+            "Registry operator": "Schwarz Domains und Services GmbH & Co. KG",
+            "Organization": "Schwarz Domains und Services GmbH & Co. KG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lilly",
+            "Registry operator": "Eli Lilly and Company",
+            "Organization": "Eli Lilly and Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lincoln",
+            "Registry operator": "Ford Motor Company",
+            "Organization": "Ford Motor Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "linde",
+            "Registry operator": "Linde Aktiengesellschaft",
+            "Organization": "Linde Aktiengesellschaft",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lipsy",
+            "Registry operator": "Lipsy Ltd",
+            "Organization": "Lipsy Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lixil",
+            "Registry operator": "LIXIL Group Corporation",
+            "Organization": "LIXIL Group Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "locus",
+            "Registry operator": "Locus Analytics LLC",
+            "Organization": "Locus Analytics LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "loft",
+            "Registry operator": "Annco, Inc.",
+            "Organization": "Annco, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lotte",
+            "Registry operator": "Lotte Holdings Co., Ltd.",
+            "Organization": "Lotte Holdings Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lpl",
+            "Registry operator": "LPL Holdings, Inc.",
+            "Organization": "LPL Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lplfinancial",
+            "Registry operator": "LPL Holdings, Inc.",
+            "Organization": "LPL Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lundbeck",
+            "Registry operator": "H. Lundbeck A/S",
+            "Organization": "H. Lundbeck A/S",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "lupin",
+            "Registry operator": "LUPIN LIMITED",
+            "Organization": "LUPIN LIMITED",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "macys",
+            "Registry operator": "Macys, Inc.",
+            "Organization": "Macys, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "maif",
+            "Registry operator": "Mutuelle Assurance Instituteur France (MAIF)",
+            "Organization": "Mutuelle Assurance Instituteur France (MAIF)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "man",
+            "Registry operator": "MAN SE",
+            "Organization": "MAN SE",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "marriott",
+            "Registry operator": "Marriott Worldwide Corporation",
+            "Organization": "Marriott Worldwide Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "marshalls",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "maserati",
+            "Registry operator": "Fiat Chrysler Automobiles N.V.",
+            "Organization": "Fiat Chrysler Automobiles N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mattel",
+            "Registry operator": "Mattel Sites, Inc.",
+            "Organization": "Mattel Sites, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mckinsey",
+            "Registry operator": "McKinsey Holdings, Inc.",
+            "Organization": "McKinsey Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "metlife",
+            "Registry operator": "MetLife Services and Solutions, LLC",
+            "Organization": "MetLife Services and Solutions, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "microsoft",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mini",
+            "Registry operator": "Bayerische Motoren Werke Aktiengesellschaft",
+            "Organization": "Bayerische Motoren Werke Aktiengesellschaft",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mint",
+            "Registry operator": "Intuit Administrative Services, Inc.",
+            "Organization": "Intuit Administrative Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mit",
+            "Registry operator": "Massachusetts Institute of Technology",
+            "Organization": "Massachusetts Institute of Technology",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mitsubishi",
+            "Registry operator": "Mitsubishi Corporation",
+            "Organization": "Mitsubishi Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mlb",
+            "Registry operator": "MLB Advanced Media DH, LLC",
+            "Organization": "MLB Advanced Media DH, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "monash",
+            "Registry operator": "Monash University",
+            "Organization": "Monash University",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "monster",
+            "Registry operator": "XYZ.COM LLC",
+            "Organization": "XYZ.COM LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mormon",
+            "Registry operator": "IRI Domain Management, LLC (\"Applicant\")",
+            "Organization": "IRI Domain Management, LLC (\"Applicant\")",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "moto",
+            "Registry operator": "Motorola Trademark Holdings, LLC",
+            "Organization": "Motorola Trademark Holdings, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "msd",
+            "Registry operator": "MSD Registry Holdings, Inc.",
+            "Organization": "MSD Registry Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mtn",
+            "Registry operator": "MTN Dubai Limited",
+            "Organization": "MTN Dubai Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "mtr",
+            "Registry operator": "MTR Corporation Limited",
+            "Organization": "MTR Corporation Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nab",
+            "Registry operator": "National Australia Bank Limited",
+            "Organization": "National Australia Bank Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nadex",
+            "Registry operator": "Nadex Domains, Inc.",
+            "Organization": "Nadex Domains, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nationwide",
+            "Registry operator": "Nationwide Mutual Insurance Company",
+            "Organization": "Nationwide Mutual Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "natura",
+            "Registry operator": "NATURA COSM\u00c9TICOS S.A.",
+            "Organization": "NATURA COSM\u00c9TICOS S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nba",
+            "Registry operator": "NBA REGISTRY, LLC",
+            "Organization": "NBA REGISTRY, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nec",
+            "Registry operator": "NEC Corporation",
+            "Organization": "NEC Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "netbank",
+            "Registry operator": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Organization": "COMMONWEALTH BANK OF AUSTRALIA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "netflix",
+            "Registry operator": "Netflix, Inc.",
+            "Organization": "Netflix, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "neustar",
+            "Registry operator": "Registry Services, LLC",
+            "Organization": "Registry Services, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "newholland",
+            "Registry operator": "CNH Industrial N.V.",
+            "Organization": "CNH Industrial N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "next",
+            "Registry operator": "Next plc",
+            "Organization": "Next plc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nextdirect",
+            "Registry operator": "Next plc",
+            "Organization": "Next plc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nexus",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nfl",
+            "Registry operator": "NFL Reg Ops LLC",
+            "Organization": "NFL Reg Ops LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nhk",
+            "Registry operator": "Japan Broadcasting Corporation (NHK)",
+            "Organization": "Japan Broadcasting Corporation (NHK)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nico",
+            "Registry operator": "DWANGO Co., Ltd.",
+            "Organization": "DWANGO Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nike",
+            "Registry operator": "NIKE, Inc.",
+            "Organization": "NIKE, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nikon",
+            "Registry operator": "NIKON CORPORATION",
+            "Organization": "NIKON CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nissan",
+            "Registry operator": "NISSAN MOTOR CO., LTD.",
+            "Organization": "NISSAN MOTOR CO., LTD.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nissay",
+            "Registry operator": "Nippon Life Insurance Company",
+            "Organization": "Nippon Life Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nokia",
+            "Registry operator": "Nokia Corporation",
+            "Organization": "Nokia Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "northwesternmutual",
+            "Registry operator": "Northwestern Mutual Registry, LLC",
+            "Organization": "Northwestern Mutual Registry, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "norton",
+            "Registry operator": "Symantec Corporation",
+            "Organization": "Symantec Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nowtv",
+            "Registry operator": "Starbucks (HK) Limited",
+            "Organization": "Starbucks (HK) Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "nra",
+            "Registry operator": "NRA Holdings Company, INC.",
+            "Organization": "NRA Holdings Company, INC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ntt",
+            "Registry operator": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION",
+            "Organization": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "obi",
+            "Registry operator": "OBI Group Holding SE & Co. KGaA",
+            "Organization": "OBI Group Holding SE & Co. KGaA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "off",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "oldnavy",
+            "Registry operator": "The Gap, Inc.",
+            "Organization": "The Gap, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "omega",
+            "Registry operator": "The Swatch Group Ltd",
+            "Organization": "The Swatch Group Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "onyourside",
+            "Registry operator": "Nationwide Mutual Insurance Company",
+            "Organization": "Nationwide Mutual Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "open",
+            "Registry operator": "American Express Travel Related Services Company, Inc.",
+            "Organization": "American Express Travel Related Services Company, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "oracle",
+            "Registry operator": "Oracle Corporation",
+            "Organization": "Oracle Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "orange",
+            "Registry operator": "Orange Brand Services Limited",
+            "Organization": "Orange Brand Services Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "origins",
+            "Registry operator": "The Est\u00e9e Lauder Companies Inc.",
+            "Organization": "The Est\u00e9e Lauder Companies Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "otsuka",
+            "Registry operator": "Otsuka Holdings Co., Ltd.",
+            "Organization": "Otsuka Holdings Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "panasonic",
+            "Registry operator": "Panasonic Corporation",
+            "Organization": "Panasonic Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pccw",
+            "Registry operator": "PCCW Enterprises Limited",
+            "Organization": "PCCW Enterprises Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pfizer",
+            "Registry operator": "Pfizer Inc.",
+            "Organization": "Pfizer Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "philips",
+            "Registry operator": "Koninklijke Philips N.V.",
+            "Organization": "Koninklijke Philips N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pictet",
+            "Registry operator": "Pictet Europe S.A.",
+            "Organization": "Pictet Europe S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ping",
+            "Registry operator": "Ping Registry Provider, Inc.",
+            "Organization": "Ping Registry Provider, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pioneer",
+            "Registry operator": "Pioneer Corporation",
+            "Organization": "Pioneer Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "playstation",
+            "Registry operator": "Sony Interactive Entertainment Inc.",
+            "Organization": "Sony Interactive Entertainment Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pnc",
+            "Registry operator": "PNC Domain Co., LLC",
+            "Organization": "PNC Domain Co., LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pramerica",
+            "Registry operator": "Prudential Financial, Inc.",
+            "Organization": "Prudential Financial, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "praxi",
+            "Registry operator": "Praxi S.p.A.",
+            "Organization": "Praxi S.p.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "prime",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "progressive",
+            "Registry operator": "Progressive Casualty Insurance Company",
+            "Organization": "Progressive Casualty Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pru",
+            "Registry operator": "Prudential Financial, Inc.",
+            "Organization": "Prudential Financial, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "prudential",
+            "Registry operator": "Prudential Financial, Inc.",
+            "Organization": "Prudential Financial, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "pwc",
+            "Registry operator": "PricewaterhouseCoopers LLP",
+            "Organization": "PricewaterhouseCoopers LLP",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "qvc",
+            "Registry operator": "QVC, Inc.",
+            "Organization": "QVC, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "raid",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "redstone",
+            "Registry operator": "Redstone Haute Couture Co., Ltd.",
+            "Organization": "Redstone Haute Couture Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "reliance",
+            "Registry operator": "Reliance Industries Limited",
+            "Organization": "Reliance Industries Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rexroth",
+            "Registry operator": "Robert Bosch GMBH",
+            "Organization": "Robert Bosch GMBH",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ricoh",
+            "Registry operator": "Ricoh Company, Ltd.",
+            "Organization": "Ricoh Company, Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rightathome",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ril",
+            "Registry operator": "Reliance Industries Limited",
+            "Organization": "Reliance Industries Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rmit",
+            "Registry operator": "Royal Melbourne Institute of Technology",
+            "Organization": "Royal Melbourne Institute of Technology",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rocher",
+            "Registry operator": "Ferrero Trading Lux S.A.",
+            "Organization": "Ferrero Trading Lux S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rogers",
+            "Registry operator": "Rogers Communications Canada Inc.",
+            "Organization": "Rogers Communications Canada Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "rwe",
+            "Registry operator": "RWE AG",
+            "Organization": "RWE AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "samsclub",
+            "Registry operator": "Wal-Mart Stores, Inc.",
+            "Organization": "Wal-Mart Stores, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sandvik",
+            "Registry operator": "Sandvik AB",
+            "Organization": "Sandvik AB",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sandvikcoromant",
+            "Registry operator": "Sandvik AB",
+            "Organization": "Sandvik AB",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sanofi",
+            "Registry operator": "Sanofi",
+            "Organization": "Sanofi",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sap",
+            "Registry operator": "SAP AG",
+            "Organization": "SAP AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sas",
+            "Registry operator": "Research IP LLC",
+            "Organization": "Research IP LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "saxo",
+            "Registry operator": "Saxo Bank A/S",
+            "Organization": "Saxo Bank A/S",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sbi",
+            "Registry operator": "STATE BANK OF INDIA",
+            "Organization": "STATE BANK OF INDIA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sbs",
+            "Registry operator": "SPECIAL BROADCASTING SERVICE CORPORATION",
+            "Organization": "SPECIAL BROADCASTING SERVICE CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sca",
+            "Registry operator": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)",
+            "Organization": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "scb",
+            "Registry operator": "The Siam Commercial Bank Public Company Limited (\"SCB\")",
+            "Organization": "The Siam Commercial Bank Public Company Limited (\"SCB\")",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "schaeffler",
+            "Registry operator": "Schaeffler Technologies AG & Co. KG",
+            "Organization": "Schaeffler Technologies AG & Co. KG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "schmidt",
+            "Registry operator": "SCHMIDT GROUPE S.A.S.",
+            "Organization": "SCHMIDT GROUPE S.A.S.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "schwarz",
+            "Registry operator": "Schwarz Domains und Services GmbH & Co. KG",
+            "Organization": "Schwarz Domains und Services GmbH & Co. KG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "scjohnson",
+            "Registry operator": "Johnson Shareholdings, Inc.",
+            "Organization": "Johnson Shareholdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "scor",
+            "Registry operator": "SCOR SE",
+            "Organization": "SCOR SE",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "seat",
+            "Registry operator": "SEAT, S.A. (Sociedad Unipersonal)",
+            "Organization": "SEAT, S.A. (Sociedad Unipersonal)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "seek",
+            "Registry operator": "Seek Limited",
+            "Organization": "Seek Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sener",
+            "Registry operator": "Sener Ingenier\u00eda y Sistemas, S.A.",
+            "Organization": "Sener Ingenier\u00eda y Sistemas, S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ses",
+            "Registry operator": "SES",
+            "Organization": "SES",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "seven",
+            "Registry operator": "Seven West Media Ltd",
+            "Organization": "Seven West Media Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sew",
+            "Registry operator": "SEW-EURODRIVE GmbH & Co KG",
+            "Organization": "SEW-EURODRIVE GmbH & Co KG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sfr",
+            "Registry operator": "Societe Francaise du Radiotelephone - SFR",
+            "Organization": "Societe Francaise du Radiotelephone - SFR",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "shangrila",
+            "Registry operator": "Shangri\u2010La International Hotel Management Limited",
+            "Organization": "Shangri\u2010La International Hotel Management Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sharp",
+            "Registry operator": "Sharp Corporation",
+            "Organization": "Sharp Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "shaw",
+            "Registry operator": "Shaw Cablesystems G.P.",
+            "Organization": "Shaw Cablesystems G.P.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "shell",
+            "Registry operator": "Shell Information Technology International Inc",
+            "Organization": "Shell Information Technology International Inc",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "showtime",
+            "Registry operator": "CBS Domains Inc.",
+            "Organization": "CBS Domains Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "silk",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sina",
+            "Registry operator": "Sina Corporation",
+            "Organization": "Sina Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sky",
+            "Registry operator": "Sky International AG",
+            "Organization": "Sky International AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "skype",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sling",
+            "Registry operator": "DISH Technologies L.L.C.",
+            "Organization": "DISH Technologies L.L.C.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "smart",
+            "Registry operator": "Smart Communications, Inc. (SMART)",
+            "Organization": "Smart Communications, Inc. (SMART)",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sncf",
+            "Registry operator": "Soci\u00e9t\u00e9 Nationale des Chemins de fer Francais S N C F",
+            "Organization": "Soci\u00e9t\u00e9 Nationale des Chemins de fer Francais S N C F",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "softbank",
+            "Registry operator": "SoftBank Group Corp.",
+            "Organization": "SoftBank Group Corp.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "sony",
+            "Registry operator": "Sony Corporation",
+            "Organization": "Sony Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "stada",
+            "Registry operator": "STADA Arzneimittel AG",
+            "Organization": "STADA Arzneimittel AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "staples",
+            "Registry operator": "Staples, Inc.",
+            "Organization": "Staples, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "statebank",
+            "Registry operator": "STATE BANK OF INDIA",
+            "Organization": "STATE BANK OF INDIA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "statefarm",
+            "Registry operator": "State Farm Mutual Automobile Insurance Company",
+            "Organization": "State Farm Mutual Automobile Insurance Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "suzuki",
+            "Registry operator": "SUZUKI MOTOR CORPORATION",
+            "Organization": "SUZUKI MOTOR CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "swatch",
+            "Registry operator": "The Swatch Group Ltd",
+            "Organization": "The Swatch Group Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "swiftcover",
+            "Registry operator": "Swiftcover Insurance Services Limited",
+            "Organization": "Swiftcover Insurance Services Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "symantec",
+            "Registry operator": "Symantec Corporation",
+            "Organization": "Symantec Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tab",
+            "Registry operator": "Tabcorp Holdings Limited",
+            "Organization": "Tabcorp Holdings Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "taobao",
+            "Registry operator": "Alibaba Group Holding Limited",
+            "Organization": "Alibaba Group Holding Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "target",
+            "Registry operator": "Target Domain Holdings, LLC",
+            "Organization": "Target Domain Holdings, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tatamotors",
+            "Registry operator": "Tata Motors Ltd",
+            "Organization": "Tata Motors Ltd",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tdk",
+            "Registry operator": "TDK Corporation",
+            "Organization": "TDK Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "temasek",
+            "Registry operator": "Temasek Holdings (Private) Limited",
+            "Organization": "Temasek Holdings (Private) Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "teva",
+            "Registry operator": "Teva Pharmaceutical Industries Limited",
+            "Organization": "Teva Pharmaceutical Industries Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tiaa",
+            "Registry operator": "Teachers Insurance and Annuity Association of America",
+            "Organization": "Teachers Insurance and Annuity Association of America",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tiffany",
+            "Registry operator": "Tiffany and Company",
+            "Organization": "Tiffany and Company",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tjmaxx",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tjx",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tkmaxx",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tmall",
+            "Registry operator": "Alibaba Group Holding Limited",
+            "Organization": "Alibaba Group Holding Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "toray",
+            "Registry operator": "Toray Industries, Inc.",
+            "Organization": "Toray Industries, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "toshiba",
+            "Registry operator": "TOSHIBA Corporation",
+            "Organization": "TOSHIBA Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "total",
+            "Registry operator": "Total SA",
+            "Organization": "Total SA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "toyota",
+            "Registry operator": "TOYOTA MOTOR CORPORATION",
+            "Organization": "TOYOTA MOTOR CORPORATION",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "travelchannel",
+            "Registry operator": "Lifestyle Domain Holdings, Inc.",
+            "Organization": "Lifestyle Domain Holdings, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "travelers",
+            "Registry operator": "Travelers TLD, LLC",
+            "Organization": "Travelers TLD, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "tui",
+            "Registry operator": "TUI AG",
+            "Organization": "TUI AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ubank",
+            "Registry operator": "National Australia Bank Limited",
+            "Organization": "National Australia Bank Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ubs",
+            "Registry operator": "UBS AG",
+            "Organization": "UBS AG",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "unicom",
+            "Registry operator": "China United Network Communications Corporation Limited",
+            "Organization": "China United Network Communications Corporation Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "uol",
+            "Registry operator": "UBN INTERNET LTDA.",
+            "Organization": "UBN INTERNET LTDA.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "ups",
+            "Registry operator": "UPS Market Driver, Inc.",
+            "Organization": "UPS Market Driver, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "vanguard",
+            "Registry operator": "The Vanguard Group, Inc.",
+            "Organization": "The Vanguard Group, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "verisign",
+            "Registry operator": "VeriSign, Inc.",
+            "Organization": "VeriSign, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "vig",
+            "Registry operator": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe",
+            "Organization": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "viking",
+            "Registry operator": "Viking River Cruises (Bermuda) Ltd.",
+            "Organization": "Viking River Cruises (Bermuda) Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "virgin",
+            "Registry operator": "Virgin Enterprises Limited",
+            "Organization": "Virgin Enterprises Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "visa",
+            "Registry operator": "Visa Worldwide Pte. Limited",
+            "Organization": "Visa Worldwide Pte. Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "vistaprint",
+            "Registry operator": "Vistaprint Limited",
+            "Organization": "Vistaprint Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "vivo",
+            "Registry operator": "Telefonica Brasil S.A.",
+            "Organization": "Telefonica Brasil S.A.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "volkswagen",
+            "Registry operator": "Volkswagen Group of America Inc.",
+            "Organization": "Volkswagen Group of America Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "volvo",
+            "Registry operator": "Volvo Holding Sverige Aktiebolag",
+            "Organization": "Volvo Holding Sverige Aktiebolag",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "walmart",
+            "Registry operator": "Wal-Mart Stores, Inc.",
+            "Organization": "Wal-Mart Stores, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "walter",
+            "Registry operator": "Sandvik AB",
+            "Organization": "Sandvik AB",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "weatherchannel",
+            "Registry operator": "International Business Machines Corporation",
+            "Organization": "International Business Machines Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "weber",
+            "Registry operator": "Saint-Gobain Weber SA",
+            "Organization": "Saint-Gobain Weber SA",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "weir",
+            "Registry operator": "Weir Group IP Limited",
+            "Organization": "Weir Group IP Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "williamhill",
+            "Registry operator": "William Hill Organization Limited",
+            "Organization": "William Hill Organization Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "windows",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "winners",
+            "Registry operator": "The TJX Companies, Inc.",
+            "Organization": "The TJX Companies, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "wme",
+            "Registry operator": "William Morris Endeavor Entertainment, LLC",
+            "Organization": "William Morris Endeavor Entertainment, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "wolterskluwer",
+            "Registry operator": "Wolters Kluwer N.V.",
+            "Organization": "Wolters Kluwer N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "woodside",
+            "Registry operator": "Woodside Petroleum Limited",
+            "Organization": "Woodside Petroleum Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "wtc",
+            "Registry operator": "World Trade Centers Association, Inc.",
+            "Organization": "World Trade Centers Association, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xbox",
+            "Registry operator": "Microsoft Corporation",
+            "Organization": "Microsoft Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xerox",
+            "Registry operator": "Xerox DNHC LLC",
+            "Organization": "Xerox DNHC LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xfinity",
+            "Registry operator": "Comcast IP Holdings I, LLC",
+            "Organization": "Comcast IP Holdings I, LLC",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--3oq18vl8pn36a",
+            "Registry operator": "Volkswagen (China) Investment Co., Ltd.",
+            "Organization": "Volkswagen (China) Investment Co., Ltd.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--5su34j936bgsg",
+            "Registry operator": "Shangri\u2010La International Hotel Management Limited",
+            "Organization": "Shangri\u2010La International Hotel Management Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--8y0a063a",
+            "Registry operator": "China United Network Communications Corporation Limited",
+            "Organization": "China United Network Communications Corporation Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--9krt00a",
+            "Registry operator": "Sina Corporation",
+            "Organization": "Sina Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--b4w605ferd",
+            "Registry operator": "Temasek Holdings (Private) Limited",
+            "Organization": "Temasek Holdings (Private) Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--cckwcxetd",
+            "Registry operator": "Amazon EU S.\u00e0 r.l.",
+            "Organization": "Amazon EU S.\u00e0 r.l.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--estv75g",
+            "Registry operator": "Industrial and Commercial Bank of China Limited",
+            "Organization": "Industrial and Commercial Bank of China Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--fiq64b",
+            "Registry operator": "CITIC Group Corporation",
+            "Organization": "CITIC Group Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--flw351e",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Charleston Road Registry Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--fzys8d69uvgm",
+            "Registry operator": "PCCW Enterprises Limited",
+            "Organization": "PCCW Enterprises Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--jlq480n2rg",
+            "Registry operator": "Amazon EU S.\u00e0 r.l.",
+            "Organization": "Amazon EU S.\u00e0 r.l.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--jlq61u9w7b",
+            "Registry operator": "Nokia Corporation",
+            "Organization": "Nokia Corporation",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--kcrx77d1x4a",
+            "Registry operator": "Koninklijke Philips N.V.",
+            "Organization": "Koninklijke Philips N.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "xn--w4rs40l",
+            "Registry operator": "Kerry Trading Co. Limited",
+            "Organization": "Kerry Trading Co. Limited",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "yahoo",
+            "Registry operator": "Yahoo! Domain Services Inc.",
+            "Organization": "Yahoo! Domain Services Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "yandex",
+            "Registry operator": "Yandex Europe B.V.",
+            "Organization": "Yandex Europe B.V.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "yodobashi",
+            "Registry operator": "YODOBASHI CAMERA CO.,LTD.",
+            "Organization": "YODOBASHI CAMERA CO.,LTD.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "youtube",
+            "Registry operator": "Charleston Road Registry Inc.",
+            "Organization": "Google, LLC.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "zappos",
+            "Registry operator": "Amazon Registry Services, Inc.",
+            "Organization": "Amazon Registry Services, Inc.",
+            "Specification13": true
+        },
+        {
+            "Generic top-level domain": "zara",
+            "Registry operator": "Industria de Dise\u00f1o Textil, S.A. (INDITEX, S.A.)",
+            "Organization": "Industria de Dise\u00f1o Textil, S.A. (INDITEX, S.A.)",
+            "Specification13": true
+        }
+    ],
+    "updatedOn": "24.12.2019, 10:58:24",
+    "version": 2,
+    "source": "https://www.icann.org/resources/registries/gtlds/v2/gtlds.json"
+}
