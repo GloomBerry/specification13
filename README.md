@@ -12,7 +12,7 @@ egisty/specification13/{granted}/data.json
 egisty/specification13/{notApproved}/data.json
 ```
 
-All domain records have the following internal structure:
+All generic top-level domain records have the following internal structure:
 
 ```json
 {
