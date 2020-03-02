@@ -5,7 +5,7 @@ This repository contains a revised [ICANN Specification13](https://newgtlds.ican
 
 > **Note:** The information contained in this repository may differ from current information due to update delays. Please consult the respective original publisher to obtain up-to-date information.
 
-To access a specification13 generic top-level domain record, please use either on of the following schemes:
+To access a specification13 generic top-level domain record, please use either one of the following schemes:
 
 ```
 egisty/specification13/{granted}/data.json
